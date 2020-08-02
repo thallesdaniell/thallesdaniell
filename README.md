@@ -4,7 +4,7 @@ Este é o lugar onde eu abro meus códigos-fontes, sou desenvolvedor Full Stack 
 
 Eu também gosto de assistir séries e filmes no meu tempo livre. 
 
-Atualmente estou trabalhando com micro serviços e evoluindo com CD/CI.
+Possuo pouco mais de 6 anos de experiência em tecnologia da informação, sendo a maior parte desse tempo com desenvolvimento web e soluções cloud, Além disso, estou em processo de transição para novas tendências culturais como DevOps, atualmente atuo em uma equipe de integração de microsserviços que tem como objetivo a entrega de soluções automatizadas e inovadoras para AlfamaWeb, usando as ferramentas Aws, Jenkins e versionamento de código com GitHub. 
 
 ### Encontre-me na Web 🌎: 
 
