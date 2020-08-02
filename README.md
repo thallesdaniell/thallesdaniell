@@ -7,6 +7,7 @@ Eu também gosto de assistir séries e filmes no meu tempo livre.
 Atualmente estou trabalhando com micro serviços e evoluindo com CD/CI.
 
 ### Encontre-me na Web 🌎: 
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/thallesdaniell//"><img height="30" src="linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/thallesdaniell"><img height="30" src="instagram.png?raw=true"></a>
@@ -15,6 +16,7 @@ Atualmente estou trabalhando com micro serviços e evoluindo com CD/CI.
 </p>
 
 ### O que ando fazendo 💼: 
+
 O que estou aprendendo / trabalhando nos dias de hoje:
   - Micro serviços <br/>
   - CD/CI <br/>
