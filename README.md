@@ -8,7 +8,7 @@ Atualmente estou trabalhando com micro serviços e evoluindo com CD/CI.
 
 ### Encontre-me na Web 🌎: 
 
-<p align='center'>
+<p>
 <a href="https://www.linkedin.com/in/thallesdaniell//"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/thallesdaniell"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/instagram.png?raw=true"></a>
 <a href="mailto:thallesdaniell@gmail.com"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/mail.png?raw=true"></a>
