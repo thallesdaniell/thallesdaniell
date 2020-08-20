@@ -31,7 +31,6 @@ O que estou aprendendo / trabalhando nos dias de hoje:
 ![Thalles github stats](https://github-readme-stats.vercel.app/api?username=thallesdaniell&show_icons=true&theme=tokyonight)
 
 <p>
-
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </p>
 
