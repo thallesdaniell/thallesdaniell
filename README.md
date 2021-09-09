@@ -19,6 +19,6 @@ Colaboro com a definições de métricas de sistemas e dashboards de monitoraç�
 <a href="https://develoti.com.br"><img height="30" src="https://img.shields.io/badge/Site-%237159c1?style=for-the-badge&logo=Internet Explorer"></a>
 </p>
 
-![Thalles github stats](https://github-readme-stats.vercel.app/api?username=thallesdaniell&count_private=true&show_icons=true&theme=tokyonight)
+![Thalles github stats](https://github-readme-stats.vercel.app/api?username=thallesdaniell&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thallesdaniell&theme=dark&ring=5981C4&sideLabels=38BCAD&border=FFFFFF&background=1A1B27&stroke=FFFFFF&currStreakNum=38BCAD&sideNums=38BCAD&currStreakLabel=38BCAD&dates=BE90F2&fire=BE90F2)](https://git.io/streak-stats)
