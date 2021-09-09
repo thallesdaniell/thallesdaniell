@@ -11,13 +11,12 @@ Atualmente estou no time de Devops da Housi, busco sempre apoiar os times de des
 Procuro resolver problemas que impactam os clientes com automação, para prevenir recorrência de erros.
 Colaboro com a definições de métricas de sistemas e dashboards de monitoração de infraestrutura e serviços, analiso maneiras de implementar soluções de segurança para todas as stacks de cloud e fluxo de desenvolvimento, sempre interagindo com squads de desenvolvimento para alinhamento nas operações.
 
-### Encontre-me na Web 🌎: 
-
+### Encontre-me: 
 <p>
-<a href="https://www.linkedin.com/in/thallesdaniell//"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/linkedin.png?raw=true"></a>
-<a href="https://www.instagram.com/thallesdaniell"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/instagram.png?raw=true"></a>
-<a href="mailto:thallesdaniell@gmail.com"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/mail.png?raw=true"></a>
-<a href="https://develoti.com.br"><img height="30" src="https://github.com/thallesdaniell/thallesdaniell/blob/master/blog.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/thallesdaniell//"><img height="30" src="https://img.shields.io/badge/Linkedin-%237159c1?style=for-the-badge&logo=LinkedIn"></a>
+<a href="https://www.instagram.com/thallesdaniell"><img height="30" src="https://img.shields.io/badge/Instagram-%237159c1?style=for-the-badge&logo=Instagram"></a>
+<a href="mailto:thallesdaniell@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-%237159c1?style=for-the-badge&logo=GMail"></a>
+<a href="https://develoti.com.br"><img height="30" src="https://img.shields.io/badge/Site-%237159c1?style=for-the-badge&logo=Internet Explorer"></a>
 </p>
 
 ![Thalles github stats](https://github-readme-stats.vercel.app/api?username=thallesdaniell&count_private=true&show_icons=true&theme=tokyonight)
