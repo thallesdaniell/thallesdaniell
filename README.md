@@ -35,7 +35,4 @@
   </a>
 </div>
 
-###
-<img href="https://github.com/thallesdaniell/thallesdaniell/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/thallesdaniell/thallesdaniell/blob/output/github-contribution-grid-snake.svg)
