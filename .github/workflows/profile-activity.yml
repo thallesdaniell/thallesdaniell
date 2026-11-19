@@ -1,0 +1,49 @@
+name: Update profile activity
+on:
+  schedule:
+    - cron: '23 9 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - galaxy-profile.yml
+      - .github/workflows/profile-activity.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: vinimlo/galaxy-profile
+          ref: ca7706590fe6f3f012b3e63e4ff5d101380f60b2
+          path: .galaxy-profile
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install generator dependencies
+        run: pip install -r .galaxy-profile/requirements.txt
+      - name: Generate activity cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          cp galaxy-profile.yml .galaxy-profile/config.yml
+          cd .galaxy-profile
+          python -m generator.main
+      - name: Publish activity cards
+        run: |
+          mkdir -p assets/generated
+          cp .galaxy-profile/assets/generated/stats-card*.svg assets/generated/
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/generated/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile activity"
+            git push
+          fi
