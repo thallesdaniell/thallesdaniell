@@ -1,50 +1,46 @@
-<p align="left">
-Olá, sou o Thalles<br>
-Tech Lead em Platform Engineering / SRE na RD Station.
-</p>
+# Olá, sou o Thalles
 
-Sou engenheiro de plataforma com foco em GCP/GKE, GitOps, IaC e DevEx. Ajudo times a entregarem software com confiabilidade, segurança e custo sob controle. Gosto de resolver problemas de produção com automação e padronização, medindo impacto com métricas claras.
+**Tech Lead em Engenharia de Plataforma na RD Station · SRE · DevEx**
 
-## Hoje
-- Tech Lead em DevTools/DevEx, apoiando squads na padronização de CI/CD, GitOps e templates de infraestrutura
-- Kubernetes multi-cluster com ArgoCD e Helm
-- Observabilidade com Datadog, Prometheus/Grafana e Elasticsearch
-- Segurança de pipelines, Vault, gestão de segredos e políticas de acesso
+Trabalho na evolução de plataformas internas e ajudo times a entregar software com confiabilidade, segurança e menos trabalho manual. Minha experiência passa por SRE, DevTools e DevEx, conectando decisões de arquitetura à operação e à experiência de quem desenvolve.
 
-## Destaques de impacto
-- Migração GCR → Artifact Registry com limpeza de imagens antigas, redução de ~47 TiB para ~3 TiB
-- Padronização de pipelines (CircleCI/Spinnaker) com lint, schema e checks automatizados antes do deploy
-- Criação de templates Helm unificados e validação via JSON Schema
-- Adoção de ambientes efêmeros para testes antes de produção
+Gosto de entender o problema antes de escolher a ferramenta. Ao definir um padrão ou planejar uma migração, considero o impacto nos times, o custo operacional e quem vai manter a solução.
 
-## Stack principal
-- Cloud: GCP (GKE, Artifact Registry, CloudSQL, Pub/Sub). AWS quando necessário.
-- Plataforma: Kubernetes, Helm, ArgoCD, KEDA, External Secrets
-- IaC e automação: Terraform, Atlantis, Ansible, bash, Go, Python
-- CI/CD: CircleCI, Spinnaker, GitHub Actions
-- Observabilidade: Datadog, Prometheus, Grafana, Elastic
-- Segurança: Vault, OIDC, IAM, scanners de imagem e repos
+## No que trabalho
 
-## Conteúdos e projetos
-- Yamplate: normalização de manifests para `values.yaml` (WIP)
-- Padrões de Helm e GitOps para múltiplos times
-- Notas e artigos sobre DevEx, SRE e FinOps
+- **Plataforma e arquitetura** · evolução de serviços compartilhados, decisões técnicas e alinhamento entre times.
+- **Experiência de desenvolvimento** · automação de CI/CD, GitOps e padrões que facilitem a entrega de software.
+- **Infraestrutura e operação** · Kubernetes, infraestrutura como código, observabilidade e segurança.
+- **Adoção e evolução** · documentação útil, planejamento de migrações e redução de trabalho manual.
 
-## Onde me achar
-<a href="https://www.linkedin.com/in/thallesdaniell/">LinkedIn</a> • 
-<a href="mailto:thallesdaniell@gmail.com">E-mail</a> • 
-<a href="https://medium.com/@thallesdaniell">Medium</a> • 
-<a href="https://www.instagram.com/thallesdaniell/">Instagram</a>
+## Resultados
 
-<!-- Opcional: manter alguns ícones realmente relevantes -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm"/>
-</div>
+- Migração do Google Container Registry para o Artifact Registry, com limpeza de imagens antigas e redução de aproximadamente **47 TiB para 3 TiB**.
+- Padronização de pipelines CircleCI e Spinnaker com lint, validação de schemas e verificações automatizadas antes do deploy.
+- Criação de templates Helm unificados, com validação por JSON Schema.
+- Adoção de ambientes efêmeros para testes antes de produção.
 
-<!-- Mantenha a “snake” se curtir -->
-<!-- ![snake gif](https://github.com/thallesdaniell/thallesdaniell/blob/output/github-contribution-grid-snake.svg) -->
+## Tecnologias no dia a dia
+
+| Área | Tecnologias |
+| --- | --- |
+| Cloud e plataforma | GCP, GKE, Kubernetes, Helm, Argo CD |
+| Infraestrutura e automação | Terraform, Atlantis, Ansible, Bash, Go, Python |
+| Entrega de software | CircleCI, GitHub Actions, Spinnaker |
+| Observabilidade | Datadog, Prometheus, Grafana, Elastic |
+| Segurança e acesso | Vault, External Secrets, OIDC, IAM |
+
+## Atividade no GitHub
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/stats-card-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/generated/stats-card-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-card-light.svg">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Atividade de contribuições no GitHub ao longo do último ano">
+</picture>
+
+<sub>Atualização semanal com [galaxy-profile](https://github.com/vinimlo/galaxy-profile).</sub>
+
+## Vamos conversar
+
+[LinkedIn](https://www.linkedin.com/in/thallesdaniell/) · [E-mail](mailto:thallesdaniell@gmail.com) · [Medium](https://medium.com/@thallesdaniell)
