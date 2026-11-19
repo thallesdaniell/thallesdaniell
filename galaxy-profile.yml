@@ -1,0 +1,19 @@
+username: thallesdaniell
+profile:
+  name: Thalles Daniel
+  tagline: Platform Engineering · SRE · DevEx
+galaxy_arms:
+  - name: Platform
+    items: [Kubernetes, Helm, Terraform, GCP]
+  - name: Automation
+    items: [Python, Go, Shell, GitHub Actions]
+projects: []
+theme:
+  dark: cyanotype
+  light: cyanotype
+motion: true
+stats:
+  metrics: [repos, prs]
+languages:
+  exclude: []
+  max_display: 6
